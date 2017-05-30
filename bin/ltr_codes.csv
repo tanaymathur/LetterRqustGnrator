@@ -1,0 +1,5 @@
+LTR_EVENT,LTR_CODE,Description,Variables
+,,,
+LTR1,BARLTR1,test letter,"var1"
+LTR2,BARLTR2, test letter 2,"var4 , var5, var6"
+LTR3,BARLTR3, test letter 3,"var4 , var5, var6"
